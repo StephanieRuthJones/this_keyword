@@ -36,4 +36,3 @@ console.log("this.globalLet", this.globalLet); // logs in browser: undefined
 const globalConst = "I'm a const variable in global scope"
 console.log("this.globalConst", this.globalConst); // logs in browser: undefined
 
-// ======== UPDATING OBJECT PROPERTIES ======== //
